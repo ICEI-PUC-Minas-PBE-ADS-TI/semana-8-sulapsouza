@@ -1,29 +1,29 @@
 const catalogo = [
     {
         id: 1,
-        titulo: "Chernobyl",
-        tipo: "serie",
-        ano: 2019,
-        generos: ["drama", "história"],
+        titulo: "A Empregada",
+        tipo: "filme",
+        ano: 2026,
+        generos: ["mistério", "suspense"],
         nota: 9.3,
         assistido: true
     },
     {
         id: 2,
-        titulo: "O Impossível",
-        tipo: "filme",
-        ano: 2012,
-        generos: ["drama", "suspense"],
-        nota: 7.5,
+        titulo: "The Walking Dead",
+        tipo: "serie",
+        ano: 2010,
+        generos: ["terror", "suspense"],
+        nota: 8.5,
         assistido: true
     },
     {
         id: 3,
-        titulo: "Twister",
+        titulo: "Michael",
         tipo: "filme",
-        ano: 1996,
-        generos: ["ação"], 
-        nota: 7.4,
+        ano: 2026,
+        generos: ["drama", "história"], 
+        nota: 9.4,
         assistido: false
     },
     {
@@ -37,19 +37,19 @@ const catalogo = [
     },
     {
         id: 5,
-        titulo: "Tempestade: Planeta em Fúria",
+        titulo: "O Diabo Veste Prada",
         tipo: "filme",
-        ano: 2017,
-        generos: ["ação", "ficção científica"],
-        nota: 5.3,
+        ano: 2006,
+        generos: ["comédia", "drama"],
+        nota: 7.3,
         assistido: false
     },
     {
         id: 6,
-        titulo: "The Last of Us",
+        titulo: "Bem-Vindos à Vizinhança",
         tipo: "serie",
-        ano: 2023,
-        generos: ["drama", "ação", "ficção científica"],
+        ano: 2022,
+        generos: ["terror"],
         nota: 8.8,
         assistido: true
     }
