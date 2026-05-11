@@ -5,8 +5,8 @@ Nesta atividade, você irá fazer exercícios de programação com o objetivo de
 
 ## Informações Gerais
 
-- Nome:
-- Matrícula:
+- Nome: Sulamita Pinheiro de Souza
+- Matrícula: 927424
 
 ## Prints do console do navegador
 
